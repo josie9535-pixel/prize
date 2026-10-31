@@ -1,0 +1,6 @@
+{
+  "name": "칭찬 스탬프 모으기",
+  "description": "특수교육대상 학생의 학교생활 행동 중재 및 칭찬 스탬프·스타 보상 웹앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
